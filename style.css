@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(#0f025c 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
+    background: linear-gradient(#025c0e 0%, #b60f76 33.33%, #b1860f 66.67%, #02f00e 100%);
     height: 100vh;
     display: flex;
     align-items: center;
